@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+  margin-right: 15px;
+}
+h2 {
+  color: #4169e2;
+
+}
+.button-link {
+  color: #fff;
+  background-color: #4169e2;
+  padding: 7px 20px;
+}
+main {
+padding: 70px 20px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+align-items: center;
+}
+h1 {
+  font-size: 42px;
+  font-weight: 400;
+}
+h3 {
+  margin-bottom: 14px;
+  font-size: 27px;
+ color: #8b8b8b;
+ font-weight: 400;
+}
+
+.image {
+  width: 100%;
+
+
+}
+
+/* to put stuff on the same line use display flex */
