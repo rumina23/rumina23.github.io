@@ -6,3 +6,4 @@
 | 1   |        Day 1: Makeup      |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/makeup/index.html) |
 | 2   |        Day 2: Landing page      |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/landing%20page/index.html) |
 | 3   |        Day 3: Business Landing Page      |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Business%20Landing%20Page/index.html) |
+| 4   |        Day 4: Personal website     |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Personal%20website/index.html) |
