@@ -7,4 +7,4 @@
 | 2   |        Day 2: Landing page      |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/landing%20page/index.html) |
 | 3   |        Day 3: Business Landing Page      |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Business%20Landing%20Page/index.html) |
 | 4   |        Day 4: Personal website     |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Personal%20website/index.html) |
-| 5  |        Day 5: Personal website     |          [Web Live](| 4   |        Day 5: responsive landing page     |          [Web Live]https://github.com/rumina23/rumina23.github.io/tree/main/50%20projects%20in%2050%20days/responsivelandingpage%20landing%20page
+   | 5   |        Day 5: responsive landing page     |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/responsive%20landing%20page/index.html) |
