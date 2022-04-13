@@ -53,3 +53,56 @@ h1{
 h1 span {
   color: #ff4362;
 }
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+label, input, textarea {
+  display: block;
+
+
+}
+form {
+  width: 600px;
+  margin: 100px auto;
+  padding: 40px 25px;
+  border: 2px solid #ff4362;
+  
+
+}
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  border: 2px solid #efefef;
+}
+
+label {
+  margin-top: 12px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+  background-color: #ff4362;
+  color: white;
+  border: none;
+
+}
+h1 {
+text-align: center;
+}
+
+
+
+
+
+/* 1. to put stuff on the same line, target the parent and give it display of flex */
+/* 2. to space items in a flex container,we can use the gap property(example; gap: 10px) */
+/* 3. to make something start on its own line give it display block */
+/* 4. inside spacing is padding */
+/* outside spacing is margin */
+
