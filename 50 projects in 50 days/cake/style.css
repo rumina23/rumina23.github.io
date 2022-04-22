@@ -29,6 +29,12 @@
   font-family: 'Great Vibes',sans-serif;
   color: #222222;
   cursor: pointer;
+  }
+  .font{
+  font-size: 40px;
+  font-weight: 100;
+  font-family: 'Great Vibes',sans-serif;
+  color: #222222;
 }
 .navbar-menu a{
   font-size: 13px;
@@ -158,18 +164,209 @@
 }
 .cakeimages {
   display: grid;
-  grid-template-columns: 30% 30% 30%;
+  grid-template-columns: 23% 23% 23% 23%;
   justify-content: space-between;
   width: 85%;
   margin: 0 auto;
 }
 img {
   width: 100%;
- height:400px;
+ height: 100%;
  object-fit: cover;
 }
 
 .aboutme {
-  font-size: 30px;
+  font-size: 25px;
+  font-weight: 50;
+  font-family: 'Great Vibes',sans-serif;
+  color: #222222;
+  cursor: pointer;
+  width: 100%;
+  padding:40px 20px;
+  
+}
+.cakebyrc {
+  font-size: 40px;
+  font-weight: 100;
+  font-family: 'Great Vibes',sans-serif;
+  color: #222222;
+  cursor: pointer;
+
 }
 
+.menu {
+  font-style: italic;
+  font-size: 30px;
+  color:#dd81c9 ;
+  margin-top: 25px;
+  margin-bottom: 10px;
+
+}
+.buttercream {
+  font-style: italic;
+  font-size: 30px;
+  color: #dd81c9;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+.filling {
+  font-style: italic;
+  font-size: 30px;
+  color: #dd81c9;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+ header a {
+   display: block;
+   color: black;
+   text-decoration: none;
+
+   }
+  .flex-a {
+    display: flex;
+    gap: 20px;
+  }
+  main > div {
+    min-height: 300px;
+    width: 50%;
+  }
+  .text {
+    background-color: ;
+  }
+.image {
+  background-color: ;
+}
+.main-section {
+  display: flex;
+  align-items: center;
+  padding: 50px 30px;
+}
+.button1 {
+  padding: 10px 20px;
+  display: inline-block;
+  background-color:#dd81c9 ;
+  color: #fff;
+  margin-top: 20px;
+}
+h1{
+  margin: 13px 0px;
+}
+
+h1 span {
+  color: #dd81c9;
+}
+
+ul {
+list-style: none;
+
+}
+.list li{
+  margin: 5px 0px;
+}
+label, input, textarea {
+  display: block;
+
+
+}
+form {
+  width: 600px;
+  margin: 100px auto;
+  padding: 40px 25px;
+  border: 2px solid #dd81c9;
+  
+
+}
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  border: 2px solid #efefef;
+}
+
+label {
+  margin-top: 12px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+  background-color: #dd81c9;
+  color: white;
+  border: none;
+
+}
+h1 {
+text-align: center;
+}
+.pricelist {
+  font-size: 40px;
+ font-weight: 100px;
+  font-family: 'Great Vibes',sans-serif;
+  color: #222222;
+  cursor: pointer;
+
+}
+.logo1 {
+  font-size: 40px;
+  font-weight: 100;
+  font-family: 'Great Vibes',sans-serif;
+  color: #222222;
+  cursor: pointer;
+}
+.cakeimage2{
+  display:inline-block;
+  width: 370px;
+
+}
+.gallery {font-size: 40px;
+  font-weight: 100;
+  font-family: 'Great Vibes',sans-serif;
+  color: #222222;
+  cursor: pointer;
+
+}
+.img {
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 30px;
+  height: 320px;
+}
+.gallery-page {
+  padding-top: 70px;
+  background-color: #efefef;
+}
+.gallery-page h1 {
+font-size: 40px;
+font-weight: bold;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 30px;
+  width: 100%;
+}
+.list ul {
+  width: 20%;
+  
+}
+ .listpage, .menulist {
+  padding-top: 100px;
+  background-color: #efefef;
+  min-height: 100vh;
+
+}
+.list li {
+  margin: 15px 0;
+  padding: 5px 0;
+  border-bottom: 1px solid black;
+}
+.menu-div li {
+  border: none;
+
+}
