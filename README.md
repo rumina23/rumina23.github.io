@@ -9,3 +9,4 @@
 | 4   |        Day 4: Personal website     |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Personal%20website/index.html) |
    | 5   |        Day 5: responsive landing page     |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/responsive%20landing%20page/index.html) |
 | 6   |        Day 6: portfolio    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/portfolio%20/index.html) |
+| 7   |        Day 7: cake    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/cake/index.html) |
