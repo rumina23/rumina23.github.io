@@ -11,4 +11,4 @@
 | 6   |        Day 6: portfolio    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/portfolio%20/index.html) |
 | 7   |        Day 7: cake    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/cake/index.html) |
 | 8   |        Day 8: about me    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/new%20about%20me/index.html) |
-| 9   |        Day 9: E-commerce    |          [Web Live](https://rumina23.github.io/https://github.com/rumina23/rumina23.github.io/blob/main/50%20projects%20in%2050%20days/E-commerce/index.html) |
+| 9   |        Day 9: E-commerce    |          [Web Live](https://rumina23.github.io/https://github.com/50%20projects%20in%2050%20days/E-commerce/index.html) |
