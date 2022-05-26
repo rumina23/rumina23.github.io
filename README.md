@@ -13,3 +13,4 @@
 | 8   |        Day 8: about me    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/new%20about%20me/index.html) |
 | 9   |        Day 9: E-commerce    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/E-commerce/index.html) |
 | 10   |        Day 10: Bookshop    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/book%20website/index.html) |
+| 11   |        Day 11: Calculator    |          [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/calculator/index.html) |
