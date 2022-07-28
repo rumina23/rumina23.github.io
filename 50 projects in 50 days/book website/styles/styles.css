@@ -151,3 +151,32 @@ h6{
     grid-template-columns: 48% 48%;
   }
 }
+.about {
+  
+    display: none;
+    }
+    .menu span{
+     display: block;
+     width: 40px;
+     height: 4px;
+     background-color: black;
+     margin: 4px 0;
+    }
+  
+    div.box{
+     text-align: center;
+     margin-top: auto;
+   }
+  .text span{
+    display: flex;
+    align-items: center;
+    padding: 50px 100px;
+    background-color: #efefef;
+    gap: 40px;
+
+  }
+   div .button {
+    color: #00a96c;
+  }
+ 
+  

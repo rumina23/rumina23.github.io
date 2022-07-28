@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.top {
+  background-color: black;
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+}
+.top a{
+  color: white;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.bottom.flex {
+  padding: 20px 10px;
+  border-bottom: 1px solid #808080;
+
+}
+.main-button {
+  background-color: aquamarine;
+  padding: 10px 24px;
+  border-radius: 5px;
+}
+.link a {
+  color: black;
+}

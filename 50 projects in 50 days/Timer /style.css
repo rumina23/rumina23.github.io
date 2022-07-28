@@ -1,0 +1,92 @@
+* {
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+  }
+  
+main{
+  min-height: 100vh;
+  background-image: url(https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1075&q=80);
+  background-size: cover;
+  color: white;
+  }
+  
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(1, 1, 1, 0.206);
+  min-height: 100vh;
+  }
+  
+.container-1{
+  display: inline-block;
+  text-align: center;
+  }
+  
+.times {
+  margin: 10px 0;
+  font-size: 150px;
+  }
+  
+button {
+  display: inline-block;
+  padding: 19px 60px;
+  border: none;
+  background-color: rgb(20, 222, 158);
+  color: white;
+  border-radius: 7px;
+  font-size: 26px;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  transition: 0.3s;
+  
+    /* overflow: hidden; */
+}
+  
+button::before, button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  background-color: rgb(119, 250, 206);
+  z-index: -1;
+  transition: 0.3s ease-in-out;
+  }
+  
+button:hover::after, button:hover::before {
+  height: 100%;
+}
+  
+button::after {
+  background-color: rgb(25, 230, 154);
+  transition-delay: 0.3s;
+  }
+  
+.start {
+   background-color: rgb(232, 56, 100);
+  }
+  
+.start::before, .start::after {
+  bottom: 0;
+  top: auto;
+  }
+  
+.start {
+  background-color: rgb(251, 14, 93);
+  }
+  
+.start::after {
+  background-color: rgb(221, 15, 104);
+  
+  }
+.start::before {
+  background-color: rgb(255, 108, 157);
+  }
+  
+h1{
+  font-size: 30px;
+  }
