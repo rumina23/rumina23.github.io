@@ -17,3 +17,6 @@
 | 12  |         Day 12: Timer          |                    [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Timer%20/index.html) |
 | 13  |       Day 13: stopwatch        |           [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/stopwatch%20timer/index.html) |
 | 14  |      Day 14: Jam website       |     [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Jam%20spread%20website/index.html) |
+| 15  |        Day 15: Netflix         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Netflix/index.html) |
+
+https://github.com/rumina23/rumina23.github.io/blob/main/50%20projects%20in%2050%20days/Netflix/index.html
