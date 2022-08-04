@@ -19,4 +19,3 @@
 | 14  |      Day 14: Jam website       |     [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Jam%20spread%20website/index.html) |
 | 15  |        Day 15: Netflix         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Netflix/index.html) |
 
-https://github.com/rumina23/rumina23.github.io/blob/main/50%20projects%20in%2050%20days/Netflix/index.html
