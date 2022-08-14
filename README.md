@@ -16,10 +16,9 @@
 | 11  |       Day 11: Calculator       |                  [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/calculator/index.html) |
 | 12  |         Day 12: Timer          |                    [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/Timer%20/index.html) |
 | 13  |       Day 13: stopwatch        |           [Web Live](https://rumina23.github.io/50%20projects%20in%2050%20days/stopwatch%20timer/index.html) |
-
-| 15  |        Day 15: Netflix         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Netflix/index.html) |
-| 16  |        Day 16: Starbucks         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/starbucks/index.html) |
-| 17  |        Day 17: Restaurant         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/restaurant/index.html) |
+| 14  |        Day 14: Netflix         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Netflix/index.html) |
+| 15  |        Day 15: Starbucks         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/starbucks/index.html) |
+| 16  |        Day 16: Restaurant         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/restaurant/index.html) |
 
 
 
