@@ -1,8 +1,3 @@
-
- 
-
- 
-
 let basket = [];
 
 let basketDb = JSON.parse(localStorage.getItem("starbucks"));
