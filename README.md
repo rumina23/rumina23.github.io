@@ -20,5 +20,5 @@
 | 15  |        Day 15: Starbucks         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/starbucks/index.html) |
 | 16  |        Day 16: Restaurant         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/restaurant/index.html) |
 | 17  |        Day 17: Trainers         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Trainers/index.html) |
-
+| 18  |        Day 18: Spotify         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Spotify%20Clone/index.html) |
 
