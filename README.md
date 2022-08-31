@@ -19,7 +19,6 @@
 | 14  |        Day 14: Netflix         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/Netflix/index.html) |
 | 15  |        Day 15: Starbucks         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/starbucks/index.html) |
 | 16  |        Day 16: Restaurant         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/restaurant/index.html) |
-50%20projects%20in%2050%20days/starbucks/index.html) |
-| 17  |        Day 17: PhotoAlbum         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/restaurant/index.html) |
+| 17  |        Day 17: Trainers         |                    [Web Live](https://rumina23.github.io//50%20projects%20in%2050%20days/trainers/index.html) |
 
 
