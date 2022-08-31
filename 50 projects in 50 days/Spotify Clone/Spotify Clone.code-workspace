@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Documents/AudiFab Spotify Music Converter/FormatConverter/112"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Spotify Clone"
+  }
+}
