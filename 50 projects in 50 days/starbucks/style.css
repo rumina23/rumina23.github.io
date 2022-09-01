@@ -795,8 +795,16 @@ header {
     padding: 11px 4%;
 
   }
+  .home {
 
- 
+  text-align: center;
+ min-height: 65vh;
+  }  
+ .home img {
+  width: 65% !important;
+ margin: 0 auto;
+ display: block;
+ }
 
   #menu-icon {
 
