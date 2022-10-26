@@ -1,3 +1,8 @@
+//Used local storage to hold all the items in the basket
+//fetching any items in the js local storage If no items are
+// found then intialise local storage with empty array
+
+
 let basket = [];
 
 let basketDb = JSON.parse(localStorage.getItem("shoes"));
@@ -7,6 +12,8 @@ const basketContainer = document.querySelector(".main-basket");
 if (basketDb == null) localStorage.setItem("shoes", JSON.stringify([]));
 
 else basket = basketDb;
+//I created an array of object to hold all the products
+
 
 const allProducts = [
 
@@ -30,7 +37,7 @@ const allProducts = [
 
 
 ]
-
+//For all products in the basket create a div for each
 const show = (products) => {
 
   products.forEach(p=>{
@@ -61,7 +68,7 @@ const show = (products) => {
   basketContainer.appendChild(div);
 
   let b = div.querySelector(".btn");
-
+//
   b.addEventListener("click", ()=>{
 
     basket.splice(basket.splice(basket.indexOf(product.id)), 1)

@@ -1,3 +1,10 @@
+//Used local storage to hold all the items in the basket
+//fetching any items in the js local storage If no items are
+// found then intialise local storage with empty array
+//For all products in the basket create a div for each
+//AddEventetlistener create a events listeners for the target elements
+//Used local storage to hold all the items in the basket
+
 let basket = [];
 
 let basketDb = JSON.parse(localStorage.getItem("starbucks"));
@@ -136,6 +143,7 @@ window.onscroll = () => {
 
 };
 
+//Fetching All button elements with btn class
 let buttons = document.querySelectorAll(".box .btn");
 
  
@@ -165,15 +173,16 @@ const productHandling = (id) => {
 };
 
  
-
+//Loop Over it
 buttons.forEach((b) => {
 
     let id = b.dataset.id;
 
+      //Changes text
     if(basket.includes(id)) b.innerText = "Added to Basket";
 
  
-
+// Add a click Listener
   b.addEventListener("click", e => {
 
     e.preventDefault();
